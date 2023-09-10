@@ -1,0 +1,35 @@
+body{
+    background-color: #c0e0f1;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border: 2px; color: blue;
+}
+nav{
+    background-color: navy;
+    padding: 20px;
+    text-align: center;
+}
+a{
+    color: navy;
+    text-decoration: none;
+    margin: 10px;
+    background-color: #c0e0f1;
+    padding: 10px;
+}
+a:hover{
+    border: 2px solid #c0e0f1;
+    background-color: navy;
+    color: #c0e0f1;
+}
+.robo{
+    width: 200px;
+    height: 200px;
+
+}
+ul{
+    text-align: left;
+}
+h1{
+    color: forestgreen;
+    
+}
